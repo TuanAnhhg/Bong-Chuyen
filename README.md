@@ -6,7 +6,7 @@ WEB THUONG MAI
 + trang chủ: 
 <img src="https://www.upsieutoc.com/images/2019/12/10/trang-ch.png" alt="trang-ch.png" border="0" />
 +tin tức:
- <img src="https://www.upsieutoc.com/images/2019/12/10/tin-tc.png" alt="tin-tc.png" border="0" />
+<img src="https://www.upsieutoc.com/images/2019/12/10/Captured4a918a7d5e1cb13.png" alt="Captured4a918a7d5e1cb13.png" border="0" />
 +Lịch Thi đấu:
 <img src="https://www.upsieutoc.com/images/2019/12/10/lichthidau.png" alt="lichthidau.png" border="0" />
 +Đăng nhập:
